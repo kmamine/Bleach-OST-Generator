@@ -17,3 +17,21 @@
 
 
 ![dist_lengths](./graphs/dist_lengths.png)
+
+
+![dist_likes](./graphs/dist_likes.png)
+
+
+
+![dist_comments](./graphs/dist_comments.png)
+
+
+
+![dist_views](./graphs/dist_views.png)
+
+
+![dist_release](./graphs/dist_release.png)
+
+
+![corr_mat](./graphs/corr_mat.png)
+
